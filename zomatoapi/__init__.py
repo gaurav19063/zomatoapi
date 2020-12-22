@@ -1,1 +1,1 @@
-from .zomatapi import initialize_app
+from .zomatoapi import initialize_app

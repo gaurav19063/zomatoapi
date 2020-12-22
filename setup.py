@@ -6,7 +6,7 @@ setup(
     url='https://github.com/gaurav19063/zomatoapi',
     description='A simple python wrapper for the Zomato API',
     author='Gaurav Lodhi',
-    author_profile='https://github.com/gaurav19063',
+    # author_profile='https://github.com/gaurav19063',
     license='MIT',
     classifiers=[
         'Intended Audience :: Developers',
