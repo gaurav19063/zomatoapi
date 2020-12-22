@@ -2,7 +2,7 @@
 A Python wrapper for the Zomato API v2.1
 
 ### Reference
-This a modified and debugged version of zomatopy. Find zomatopy .[here].(https://github.com/sharadbhat/Zomatopy).
+This a modified and debugged version of zomatopy. Find zomatopy [here](https://github.com/sharadbhat/Zomatopy).
 
 ## Installation
 
